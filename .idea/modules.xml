@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/angular.iml" filepath="$PROJECT_DIR$/.idea/angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-fasttrackit-commons/fasttrackit-commons.iml" filepath="$PROJECT_DIR$/fullstack-curs13-fasttrackit-commons/fasttrackit-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-course-app/course-api-client/products-api-client.iml" filepath="$PROJECT_DIR$/fullstack-curs13-course-app/course-api-client/products-api-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-course-app/products-app.iml" filepath="$PROJECT_DIR$/fullstack-curs13-course-app/products-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-course-app/course-service/products-service.iml" filepath="$PROJECT_DIR$/fullstack-curs13-course-app/course-service/products-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-student-app/student-api-client/student-api-client.iml" filepath="$PROJECT_DIR$/fullstack-curs13-student-app/student-api-client/student-api-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-student-app/student-app.iml" filepath="$PROJECT_DIR$/fullstack-curs13-student-app/student-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-student-app/student-service/student-service.iml" filepath="$PROJECT_DIR$/fullstack-curs13-student-app/student-service/student-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tachor/tachor.iml" filepath="$PROJECT_DIR$/tachor/tachor.iml" />
+    </modules>
+  </component>
+</project>
