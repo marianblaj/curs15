@@ -3,14 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/angular.iml" filepath="$PROJECT_DIR$/.idea/angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-fasttrackit-commons/fasttrackit-commons.iml" filepath="$PROJECT_DIR$/fullstack-curs13-fasttrackit-commons/fasttrackit-commons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-course-app/course-api-client/products-api-client.iml" filepath="$PROJECT_DIR$/fullstack-curs13-course-app/course-api-client/products-api-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-course-app/products-app.iml" filepath="$PROJECT_DIR$/fullstack-curs13-course-app/products-app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-course-app/course-service/products-service.iml" filepath="$PROJECT_DIR$/fullstack-curs13-course-app/course-service/products-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification-service/notification-service.iml" filepath="$PROJECT_DIR$/notification-service/notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-app/product-api-client/product-api-client.iml" filepath="$PROJECT_DIR$/product-app/product-api-client/product-api-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-app/product-app.iml" filepath="$PROJECT_DIR$/product-app/product-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-app/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-app/product-service/product-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-student-app/student-api-client/student-api-client.iml" filepath="$PROJECT_DIR$/fullstack-curs13-student-app/student-api-client/student-api-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-student-app/student-app.iml" filepath="$PROJECT_DIR$/fullstack-curs13-student-app/student-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/fullstack-curs13-student-app/student-service/student-service.iml" filepath="$PROJECT_DIR$/fullstack-curs13-student-app/student-service/student-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tachor/tachor.iml" filepath="$PROJECT_DIR$/tachor/tachor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tachor-users-app/tachor-service/tachor.iml" filepath="$PROJECT_DIR$/tachor-users-app/tachor-service/tachor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tachor-users-app/tachor-api-client/tachor-api-client.iml" filepath="$PROJECT_DIR$/tachor-users-app/tachor-api-client/tachor-api-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tachor-users-app/tachor/tachor-service.iml" filepath="$PROJECT_DIR$/tachor-users-app/tachor/tachor-service.iml" />
     </modules>
   </component>
 </project>

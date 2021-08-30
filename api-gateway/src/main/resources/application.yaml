@@ -1,0 +1,14 @@
+
+spring:
+  application:
+    name: checkpoints-api-gateway
+  rabbitmq:
+    username: bcgxuysp
+    password: Nz3TIMtKfW1kiimRSIHNkBL3eCWXNCdA
+    virtual-host: bcgxuysp
+    host: kangaroo.rmq.cloudamqp.com
+
+server:
+  port: 9000
+
+

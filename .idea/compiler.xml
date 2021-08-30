@@ -7,30 +7,51 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="tachor" />
+        <module name="tachor-service" />
+        <module name="api-gateway" />
         <module name="fasttrackit-commons" />
         <module name="student-service" />
-        <module name="tachor" />
-        <module name="products-service" />
+        <module name="product-service" />
         <module name="student-api-client" />
-        <module name="products-api-client" />
+        <module name="tachor-api-client" />
+        <module name="product-api-client" />
+        <module name="notification-service" />
+        <module name="commons" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="api-gateway" target="11" />
+      <module name="commons" target="15" />
+      <module name="course-app" target="15" />
       <module name="fasttrackit-commons" target="15" />
+      <module name="notification-service" target="11" />
+      <module name="product-api-client" target="15" />
+      <module name="product-app" target="15" />
+      <module name="product-service" target="11" />
       <module name="products-api-client" target="15" />
       <module name="products-app" target="15" />
       <module name="products-service" target="11" />
+      <module name="spring-boot-jwt" target="1.8" />
       <module name="student-api-client" target="15" />
       <module name="student-app" target="15" />
       <module name="student-service" target="11" />
       <module name="tachor" target="11" />
+      <module name="tachor-api-client" target="11" />
+      <module name="tachor-service" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="notification-service" options="-parameters" />
+      <module name="product-service" options="-parameters" />
       <module name="products-service" options="-parameters" />
+      <module name="spring-boot-jwt" options="-parameters" />
       <module name="student-service" options="-parameters" />
       <module name="tachor" options="-parameters" />
+      <module name="tachor-api-client" options="-parameters" />
+      <module name="tachor-service" options="-parameters" />
     </option>
   </component>
 </project>

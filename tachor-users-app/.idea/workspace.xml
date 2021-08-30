@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edf4a536-5541-43d1-88cc-3a51d4936184" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_aop_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_beans_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_core_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_expression_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_jcl_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_test_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_web_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_webflux_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/fasttrackit/curs16/gateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/fasttrackit/curs16/gateway/CorsConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/src/test/java/com/fasttrackit/curs16/gateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/TachorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/appUser/AppUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/appUser/AppUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/appUser/AppUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/appUser/Roles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/email/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/email/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/registration/EmailValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/registration/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/registration/RegistrationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/registration/RegistrationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/registration/token/ConfirmationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/registration/token/ConfirmationTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/registration/token/ConfirmationTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/security/PasswordEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/authentication/security/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/controller/TachorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/model/UserLoggedDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/repository/TachorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/java/com/tachor/tachor/service/TachorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tachor-service/src/test/java/com/tachor/tachor/TachorApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_buffer_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_buffer_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_http_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_http_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_common_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_common_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_handler_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_handler_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_resolver_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_resolver_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_66_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_65_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_core_1_0_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_core_1_0_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_http_1_0_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_http_1_0_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_31_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_aspects_5_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_orm_5_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_webflux_5_3_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_context_5_3_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-crash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/java/ro/tachor/apigateway/ApiGatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/java/ro/tachor/apigateway/config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/test/java/ro/tachor/apigateway/ApiGatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/footer/footer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/footer/footer.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/header/header.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/header/header.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/sidebar/sidebar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/sidebar/sidebar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/sidebar/sidebar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/components/sidebar/sidebar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/config/api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/add-student-form/add-student-form.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/add-student-form/add-student-form.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/add-student-form/add-student-form.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/add-student-form/add-student-form.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/checkpoints-page/checkpoints-page.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/checkpoints-page/checkpoints-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/checkpoints-page/checkpoints-page.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/checkpoints-page/checkpoints-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/student-table/student-table.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/student-table/student-table.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/student-table/student-table.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/student-table/student-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/students-page/students-page.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/students-page/students-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/students-page/students-page.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/pages/students-page/students-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/services/students.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/services/students.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/services/websocket.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/app/services/websocket.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs16-checkpoints-ui-master/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notification-service.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notification-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../notification-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/config/RabbitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/config/RabbitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/config/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/config/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/service/EventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/service/EventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/service/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../notification-service/src/main/java/ro/tachor/notificationservice/service/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notification-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../notification-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-api-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-api-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-api-client/src/main/java/client/ProductApiClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-api-client/src/main/java/client/ProductApiClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-api-client/src/main/java/dto/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-api-client/src/main/java/dto/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-api-client/src/main/java/events/ProductEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-api-client/src/main/java/events/ProductEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/config/RabbitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/config/RabbitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/events/EventPublisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/events/EventPublisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/model/ProductEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/model/ProductEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/model/mapper/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/model/mapper/ProductMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-app/product-service/src/main/java/ro/tachor/product/productservice/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/login/login.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/register/emailConfirmationTemplate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/register/register.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/register/register.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/register/register.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/register/register.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/footer/footer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/footer/footer.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/header/header.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/header/header.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/nav/nav.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/nav/nav.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/nav/nav.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/nav/nav.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/page-not-found/page-not-found.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/page-not-found/page-not-found.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/page-not-found/page-not-found.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shared/page-not-found/page-not-found.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/cart/cart-item/cart-item.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/cart/cart-item/cart-item.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/cart/cart-item/cart-item.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/cart/cart-item/cart-item.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/cart/cart.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/cart/cart.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/cart/cart.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/cart/cart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/filters/filters.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/filters/filters.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/filters/filters.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/filters/filters.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/product-list/product-item/product-item.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/product-list/product-item/product-item.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/product-list/product-item/product-item.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/product-list/product-item/product-item.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/product-list/product-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/product-list/product-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/product-list/product-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/product-list/product-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/shopping-cart.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/shopping-cart.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/shopping-cart.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/components/shopping-cart/shopping-cart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/config/api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/models/cart-item.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/models/cart-item.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/models/product.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/models/product.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/models/userResitrationDetailsDto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/services/cart.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/services/cart.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/services/messenger.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/services/messenger.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/services/product.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/services/product.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/services/register.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/services/register.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/services/wishlist.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/app/services/wishlist.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping-cart-angular-ui/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tachor/src/main/java/com/tachor/tachor/config/CorsConfig.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xMGuus9kwTyLu8lcbNiP5YlFNE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edf4a536-5541-43d1-88cc-3a51d4936184" name="Changes" comment="" />
+      <created>1630157770344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630157770344</updated>
+      <workItem from="1630157771728" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

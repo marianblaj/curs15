@@ -6,7 +6,18 @@
         <option value="$PROJECT_DIR$/fullstack-curs13-course-app/pom.xml" />
         <option value="$PROJECT_DIR$/fullstack-curs13-fasttrackit-commons/pom.xml" />
         <option value="$PROJECT_DIR$/fullstack-curs13-student-app/pom.xml" />
+        <option value="$PROJECT_DIR$/product-app/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/notification-service/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/tachor/pom.xml" />
+        <option value="$PROJECT_DIR$/tachor-app/tachor/pom.xml" />
+        <option value="$PROJECT_DIR$/tachor-app/tachor-api-client/pom.xml" />
+        <option value="$PROJECT_DIR$/tachor-app/tachor-service/pom.xml" />
+        <option value="$PROJECT_DIR$/tachor-jwt-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/tachor-users-app/tachor-service/pom.xml" />
+        <option value="$PROJECT_DIR$/commons/pom.xml" />
+        <option value="$PROJECT_DIR$/tachor-users-app/tachor-api-client/pom.xml" />
       </list>
     </option>
   </component>
